@@ -1,0 +1,130 @@
+1.A : Mindful AI Company 
+
+1.B.1  : Goals
+
+At MindfulAI, we aim to deliver professional grade psychological support at affordability and scale. We are developing a global mental health companion powered by AI, delivered at scale to support people in managing mental wellness. This AI powered mental health companion will incorporate evidence-based techniques from CBT and support for crisis intervention. It will also enable users to monitor their mental wellness over time. Our main goals are to close the global treatment gap for mental health by providing access to mental health support for people with no current access, to support traditional therapists as a useful companion in between sessions, to act as a gateway for those afraid of traditional therapy, and to deliver AI powered mental health support that is built with strong ethical considerations, that is clinically validated, and that securely protects user privacy.
+
+Meyer Mental Health plans to reach 10 million users within the next 5 years, using psychology-backed techniques to make a positive difference in users’ mental health. We are currently working with over 50 organizations such as mental health companies, clinicians, hospitals and healthcare providers around the world who use our technology and collaborate with us to achieve our mission. Long-term, we hope our technology and techniques will contribute to lowering the stigma associated with mental health and help more people receive early intervention for common issues such as stress, anxiety, and depression.
+
+1.B.2 : Idea Origination
+
+Our founding team has personal experiences with loved ones struggling to find access to affordable, stigma free mental health services. As we continued to study AI Ethics and Healthcare Applications in graduate school, we decided to take our experiences and research and create a platform to help address the mental health needs of individuals across the world. After thorough research into AI in mental health, we found that while there are numerous applications that utilize natural language processing, human emotion recognition, and other ML capabilities in mental health, most have significant room for improvement with regards to ethics. Thus, the seed was planted for what would eventually become MindfulAI.
+
+MindfulAI is built on the basis of research carried out by the World Health Organisation (WHO) which found that 75% of people suffering from mental health in low and middle-income countries receive no treatment at all. But in high-income countries where therapy is available, long waiting times of months can mean that people are forced to wait for help. We knew that simply throwing more money at existing, flawed mental health AI solutions was not going to be enough, particularly if they continued to embed new biases, promote unhealthy dependency and offer poor quality advice.
+
+1.B.3: Purpose/Values/Mission
+
+Our mission: To provide greater access to evidence-based mental health support through the use of ethically-designed AI, while still emphasizing the importance of human connection and support.
+
+Core Values:
+- Human-Centered Design: All of our features are designed starting from real human needs and not from cool features that can be technically implemented. We work with mental health professionals, patients and the community from the very beginning of our design process.
+- Radical Transparency: We want to be transparent about the capabilities and limitations of our AI, as well as the reasoning behind its decisions and when a human professional should be brought in. We will not abuse our potential for commercial gain to overhype our technology.
+- Privacy as a Basic Right: Your mental health records are some of the most personal data possible, so we treat them with appropriate respect and rigour. We've designed Healthwatch from the ground up with privacy in mind, and include as many options as possible to allow you to share just as much or as little health information with your support team as you like.
+- Clinical Validity: eLift uses a very strict and traditional approach to clinical validity of interventions by integrating with leading research centers to validate eLift Interventions through peer reviewed studies to assure the clinical validity of results.
+- Inclusive Accessibility: We have attempted to include individuals of various cultures, language proficiency, physical and cognitive ability, and socioeconomic status in the design of our technology in order to avoid increasing healthcare disparities.
+
+Our mission: To provide compassionate, accessible and evidence-based, AI-powered mental health solutions that support and augment traditional care to reduce barriers to care and give anyone, anywhere the power to manage the ups and downs of life and build mental strength.
+
+1.B.4 Key Questions
+Our ethical touchstone for product decisions: How do we use AI to build something good, not bad, and not addictive?At AI For Good, our guiding ethical principle is to design products that empower users with autonomy, and foster their well-being. Our goal is to ensure that using our products help users grow and thrive, as opposed to creating a new unhealthy addiction to technology. This means constantly challenging ourselves on the outcomes we are trying to achieve with our product features, and ensuring those outcomes matter. Unlike time spent using our product, these outcomes measure if users are actually getting better as a result of using it.
+
+2. How do you make sure your AI-powered mental health product scales but also provides the human connection that matters most to users seeking mental health support? This is one of the questions that have guided our product and marketing efforts. We have consistently tried not to mistake AI for therapists and instead have explored how AI can be a useful complement to therapists to reach more people. We are actively experimenting with a hybrid model where AI processes messages, AI identifies situations where a therapist is needed and alerts both the user and the therapist, and human conversation can occur at anytime support is needed.
+
+3. What safeguards and governance structures will ensure that as your startup grows, becomes more commercial and under pressure to scale, that you stay true to the values and mission that drove you to start the company in the first place? This question is designed to test your awareness of the pressure points that a startup will go through as it grows. My experience at Lending Club was that we designed many of these safeguards into the company structure before they became problems. For example, Lending Club has an independent ethics board, a user advocate, etc.
+
+
+Objective: Development and evaluation of clinically effective AI powered therapy chatbot for treatment of mild to moderate levels of anxiety and/or depression.
+
+Key Results:
+1. By mid-2027 deliver a fully functioning platform using at least 20 different methods that have evidence-based support.
+2. Achieve self-reported reduction in symptoms of mental health issues in 70% of users in our initial pilot study of 500 users by end of 2027.
+3. Show the evidence (publish) Have the chatbot perform as well as current self help interventions by 2028.
+4. All programs must average a minimum rating of 4.0 from independent mental health professional reviewers on session quality.
+
+1.C.1.2 OKR 1 Metric(s) with Experiment(s)
+
+Metrics:
+- Clinical Effectiveness: standard questionnaires at standard time points measuring anxiety and depression. Outcomes recorded at 4 weeks and 8 weeks on average show a 30% reduction in symptoms with over 50% showing significant improvement.
+- User Engagement: Average times per week each user uses the application, average sessions per week each user has, percentage of users that have completed each exercise. We're measuring this metric to assess whether users are opening the app more than a few times a week. We hope that 60% of users will be using the app more than 3 times per week.
+- Safety: Monitor frequency of escalations to human counselors of users in crisis, identify all crisis situations and provide users with safe guidance to avoid giving harmful advice. Aim to achieve 99%+ accuracy in identifying crisis situations.
+- Quality: Conversations are rated by mental health professionals based on Empathy, Helpfulness, Appropriateness and Safety and must average above 4.0 out of 5.0.
+
+Experiments:
+1. Comparison Study with 500 Participants: In this study, two groups of participants are involved. One group gets direct access to MindfulAI, the other group is on an 8 weeks waiting list. Participants’ symptoms of mental health disturbances are measured with standardized questionnaires at baseline, after 8 weeks and after 4 months. We expect to find a greater improvement in the group which gets direct access to MindfulAI compared to the group on the waiting list.
+
+2. Different Conversation Style Testing: Test two different styles for engaging in conversation (more structured/directive versus open and exploratory) and evaluate which style lead to greater engagement as well as positive mental health outcomes for users.**
+
+3. Expert Review: Require 3 licensed therapists to review 100 conversations and provide a quality and safety rating for each conversation. Compare the therapist ratings with the AI’s confidence scores.
+
+4. Long-Term Tracking Study: To further verify continued user interest and product efficacy, AAA will conduct a long-term tracking study, where 1,000 users will be involved in the study for 6 months under real-life use. Compared to simple laboratory tests, this study period is already significantly longer than typical, and allows for a far more accurate assessment of the product’s performance. For 6 months, AAA will continue to track the experience of these 1,000 users.
+
+1.C.1.3 OKR 1 Ethical Impact(s)/Issues(s)
+
+Critical Ethical Risks:
+
+1. Harm to Users from Inappropriate Advice: An AI that helps users with mental health issues may fail to identify that a user is thinking about attempting suicide, fail to provide the user with appropriate advice for their specific situation, or even make a user’s mental health condition worse. Vulnerable users’ mental health could deteriorate, leading them to potentially forgo much-needed treatment. In extreme cases, users experiencing mental health issues could even be physically harmed. Users experiencing mental health issues may rely on an AI to an extent that is harmful to them, and as a result, end up following advice that could potentially cause them harm.
+
+2.Privacy Violations: Some users share very personal experiences with others on the platform, including past traumas, attempts to commit suicide, and other struggles. All conversation data, including user metadata, is accessed, obtained, and distributed by third parties who are often wholly unauthorized. If the platform were to share this data with advertisers or other parties, users could be discriminated against in hiring or insurance, blackmailed for their content, or worse. Obtaining proper consent for this practice is very difficult because users typically do not have any idea how their conversation data will be analyzed, stored, and used to improve AI performance. There is a strong temptation for a platform to do this.
+
+3. Unfair Treatment of Different Groups: Most current AI systems have been trained off the data of white, Western, middle-class populations and it is unclear how these systems will perform on, not to mention potentially harmed, non-white, non-Western, non-middle-class populations. Mental health and illness can manifest in different ways in different cultures around the world. While some therapy techniques have been developed and proven effective for Western populations, it is possible that some techniques could perpetuate rather than address mental health inequalities.
+
+4. Insurance: individuals who use this as a cheap substitute for traditional therapy, or who use this program as a complement but inadequately so, relying on the program rather than the help of a qualified therapist/ counselors; young therapists who rely on this program to complete assignments for school lacking the core counseling skills that are necessary to practice.
+
+5. Unhealthy Dependency: While individuals may find the non-judgmental and always available nature of the AI to be helpful, an over reliance on these resources can serve to further alienate individuals from other sources of social support and inhibit the development of necessary human relationships and support networks, through which individuals can truly learn and solidify healthy coping strategies.
+
+6. Misleading Users About What AI Can Do: Even very experienced users will have times when they are under pressure and in crisis. Unfortunately developers will overhype the potential of the AI technology they are developing, in order to bring in more customers. Then the developer will often go on to mislead their existing customers as to the true limitations of the technology.**
+
+1.C.1.4 OKR 1 Ethical Safeguards
+
+Comprehensive Safeguards:
+
+1. Multiple Crisis Detection Systems: AI detects when a user may be in crisis through a combination of methods including keyword detection, context, and behavior. We intervene with a message such as: I’m an AI and I’m concerned about what you’ve shared. Please contact a crisis hotline immediately. Would you like me to connect you to a human counselor right now?. Users are directly connected to 24/7 crisis services. Human crisis counselors review conversations identified as a crisis within 15 minutes during times of high traffic. Additionally, all crisis situations are reviewed weekly to fine tune our ability to identify future crises.
+
+2. Strong Privacy Protection: All conversations are encrypted so only you have access to them. No phone number, name or email is required to start chatting. No social media accounts are accessed, no location information is gathered or contacts imported. You can view, download or permanently remove all of your data in the privacy and settings dashboard. Our AI is trained on anonymous patterns of communication from many users and those communication patterns in training do not reference any individual user’s communication. We also employ world-class, independent security professionals to test for vulnerabilities in our systems. We do not and will not sell your information to other companies, nor will we offer your information to other companies. As a medical platform we uphold the medical privacy of all of our users above and beyond what is legally required.
+
+3. Prevent unfair treatment: We use training data from our partner organizations that serve users from a variety of demographic backgrounds around the world. During testing before a feature goes live, we evaluate how well the AI performs on those and other demographic populations to ensure unfair treatment isn’t happening. Our clinicians complete training that goes beyond translation to adapt to the countries and cultures they serve. We work with community advisory boards made up of people from different backgrounds, and we involve them in reviewing new features before they launch. We have high standards to meet in this work. No group or population should be declared a loser.
+
+4. Transparency: On first interaction with the system, we set the appropriate limitations with the user versus those that require human assistance . Our ethics board reviews all marketing language to ensure that any claims made are supported by at least some scientific evidence. We also publish a safety report every 3 months detailing any incidents or crisis situations that occurred, as well as monitor for fairness among different demographic groups.
+
+6.  Working Alongside Real Therapists: All marketing, content and app features would need to clearly state that the MindfulAI app is meant to supplement the work of a licensed and trained human therapist and counselor, not to substitute them. After 8 weeks, we would gently notify users that they may benefit from having a therapist to support their ongoing progress and that we can find very affordable local and national therapists for them. Furthermore, a licensed and paid therapist would be able to register with MindfulAI and login to a user’s account to view that user’s conversation summaries and be able to view that user’s progress over time. We would publicly oppose any insurance company that has a policy to pay for the MindfulAI app but not for human therapists.
+
+7.  Preventing unhealthy dependency: We examine how users are actually using the app, identify any unhealthy dependency, and gently alert them to the fact. We build in features that promote real-world activities, we ask for users’ opinion on whether they think they can achieve their goals on their own, we celebrate instances where users are making progress towards their goals, and we decrease frequency as users improve at making progress towards their goals. We deliberately avoid any manipulative notifications, any streaks that might be addictive, or any other features that encourage use in order to keep users engaged for as long as possible, even if it isn’t good for them.
+
+OKR 2 – Privacy and Security
+Objective:
+To build a secure and privacy-focused platform that protects user data and ensures users feel safe and in control while using MindfulAI.
+Key Results:
+By 2027, ensure all user data is encrypted.
+Maintain zero major data breaches.
+Achieve 95%+ user trust rating.
+Allow users to view, download, and delete their data.
+Pass third-party security audits.
+Metrics:
+Data security incidents (goal: 0)
+User trust survey (target: 95%+)
+Privacy settings usage (target: 70%+)
+Audit compliance (full compliance)
+System uptime (99.9%)
+Experiments:
+Test privacy dashboard designs
+Run user trust surveys
+Perform security testing
+Improve privacy explanations
+Conduct breach response drills
+Ethical Issues:
+Risk of data misuse
+Lack of user understanding
+Loss of control over data
+Data breaches
+Lack of transparency
+Pressure to monetize data
+Safeguards:
+Encrypt all data
+Give users full control of data
+Simple privacy policies
+No selling user data
+Regular audits
+Ethics board oversight
+Immediate response to breaches
+User education on privacy
+
