@@ -4,10 +4,10 @@ At MindfulAI, we aim to deliver professional grade psychological support at affo
 
 ## Project Links
 
-- GitHub Wiki Report: [Add Wiki link here]
-- PDF Report: [Add PDF link here]
+- GitHub Wiki Report: [Link](https://github.com/stuttagunta-cyber/CS230-Project4-Group6-Mindful-AI/wiki)
+- PDF Report: [Link](https://github.com/stuttagunta-cyber/CS230-Project4-Group6-Mindful-AI/blob/main/MindfulAI%20Final%20Report.pdf)
 - MP4 Presentation: [Add MP4 link here]
-- YouTube Presentation: [Add YouTube link here]
+- YouTube Presentation: [Link](https://youtu.be/yPo-48uuO38)
 
 ## Required Project Sections
 
